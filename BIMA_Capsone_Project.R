@@ -1,5 +1,6 @@
 #BIMA CAPSTONE PROJECT
-#Michael Deneff, Levi Wolf, David Shrem, Zev Jarashow
+
+
 
 ##########################################################
 #IN ORDER TO RUN THE PROGRAM, ALL PACKAGES MUST BE RUNNING 
