@@ -33,10 +33,10 @@ library(stringr)
 
 #setting up API rtweet
 appname= "stocks_tweets_yu_capstone"
-consumer_key= "bmYMV1bl2GYbVnVjOC3Pe01L1"
-consumer_secret= "5LjGVcbOXDwPlZUas253dDelJq9qLOBUYB3OOGoFb5EZtz65VW"
-access_token="3307763386-By6FQ2LI7PeGLRKuPnO3mFC1SI2XzuxtkRv2IfT"
-access_secret= "9hROXRkbJ528pvGmLyvj2OL4kTSqqxpEmRcO45BuMho9S"
+consumer_key= "xxxxx"
+consumer_secret= "xxxxxx"
+access_token="xxxxxxxx"
+access_secret= "xxxxxxx"
 
 twitter_token <- create_token(
   app = appname,
