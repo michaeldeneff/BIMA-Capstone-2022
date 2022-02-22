@@ -1,4 +1,4 @@
-# Twitter VS $Stock Prices (BIMA-Capstone-2022)
+# Twitter VS $Stock Prices
 Welcome! 
 
 Objective of this project: To find out the true impact of tweets associated with a given company's ticker abbreviation on their daily stock trends, either positive or negative. 
